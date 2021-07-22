@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
-## Group highlights
+### Group highlights
 
 (For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=srEKmk0AAAAJ&hl))
 
