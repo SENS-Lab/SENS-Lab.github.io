@@ -8,7 +8,7 @@ permalink: /people/
 
 ## People
 
- ***We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ ***We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -41,10 +41,7 @@ permalink: /people/
 </div>
 {% endif %}
 
-
-
-
-## Master and Bachelor Students
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -56,31 +53,9 @@ permalink: /people/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i> | <i>{{ member.email }}</i> | <i>{{ member.education1 }}</i><br>
+  {{ member.education2 }}
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
   </ul>
 </div>
 
