@@ -23,16 +23,16 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
-  email: {{ member.email }}
+  {{ member.email }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  {{ member.education1 }}
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  {{ member.education1 }}
+  {{ member.education2 }}
   {% endif %}
 
   {% if member.number_educ == 3 %}
