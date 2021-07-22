@@ -3,7 +3,7 @@ title: "SENS Lab - People"
 layout: gridlay
 excerpt: "SENS Lab at The Ohio State University"
 sitemap: false
-permalink: /people
+permalink: /people/
 ---
 
 ## People
