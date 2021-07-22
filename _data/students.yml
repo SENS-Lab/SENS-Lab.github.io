@@ -8,23 +8,26 @@
 #  education3:
 #  education4:
 
-- name: Student
+- name: Kimberly Ordonez
   photo: rock.jpg
-  info: Master student
-  email: dafgag
-  number_educ: 0
-  education1:
+  info: PhD Student
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  number_educ: 1
+  education1: <a href="https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0">CV</a>
+  education2: Research interests, projects, etc. To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
   
-- name: Student
+- name: Harrison Fried
   photo: rock.jpg
-  info: Master student
-  email: dafgag
-  number_educ: 0
-  education1:
-
-- name: Student
+  info: PhD Student
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  number_educ: 1
+  education1: <a href="https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0">CV</a>
+  education2: Research interests, projects, etc. To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
+  
+- name: Lisa Shahin
   photo: rock.jpg
-  info: Master student
-  email: dafgag
-  number_educ: 0
-  education1:
+  info: MSc Student
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  number_educ: 1
+  education1: <a href="https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0">CV</a>
+  education2: Research interests, projects, etc. To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see Research).
