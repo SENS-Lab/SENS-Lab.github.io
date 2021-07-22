@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "SENS Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "SENS Lab at The Ohio State University."
 sitemap: false
 permalink: /publications/
 ---
