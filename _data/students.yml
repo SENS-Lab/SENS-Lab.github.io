@@ -25,5 +25,5 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See [(openings)]({{ site.url }}{{ site.baseurl }}/opportunities) for more info.
+  info: See <a href="https://matthewlhamilton.github.io/opportunities">opportunities</a> for more info.
  
