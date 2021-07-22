@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "SENS Lab - People"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "SENS Lab at The Ohio State University"
 sitemap: false
 permalink: /team/
 ---
@@ -190,7 +190,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
