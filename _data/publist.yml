@@ -5,7 +5,7 @@
   link:
     url: https://dx.doi.org/10.1016/j.socnet.2021.01.005
     display: Social Networks 66:125-138 (2021)
-  highlight: 1
+  highlight: 0
   
 - title: "Collaborative governance and the challenges of network-based research"
   image: YSR.png
@@ -14,7 +14,7 @@
   link:
     url: https://dx.doi.org/10.1177/0275074020927792
     display: The American Review of Public Administration 50(8):898-913 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Cognitive Maps Reveal Diverse Perceptions of How Prescribed Fire Affects Forests and Communities"
   image: TBG_SL.png
@@ -23,7 +23,7 @@
   link:
     url: https://dx.doi.org/10.3389/ffgc.2020.00075
     display:  Frontiers in Forests and Global Change 3:75 (2020)
-  highlight: 1
+  highlight: 0
   news2:
  
 - title: "Individual adaptation to climate-exacerbated hazards: Shifting from incremental coping to transformative adaptation"
@@ -33,7 +33,7 @@
   link:
     url: https://dx.doi.org/10.1038/s41558-020-0691-6
     display: Nature Climate Change 10:200-208 (2020)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Evaluating heterogeneous brokerage: New conceptual and methodological approaches and their application to multi-level environmental governance networks"
@@ -43,7 +43,7 @@
   link:
     url: https://dx.doi.org/10.1016/j.socnet.2019.08.002
     display:  Social Networks 61:1-10 (2020)
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Cognition of complexity and trade-offs in a wildfire-prone social-ecological system"
