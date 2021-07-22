@@ -1,10 +1,10 @@
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
+- title: "Cognitive Maps Reveal Diverse Perceptions of How Prescribed Fire Affects Forests and Communities"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: description 
+  authors: M Hamilton, J Salerno
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153
+    url: https://www.frontiersin.org/articles/10.3389/ffgc.2020.00075/full
+    display:  Frontiers in Forests and Global Change 3:75 (2020)
   highlight: 1
   news2:
 
@@ -23,7 +23,7 @@
   authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
   link:
     url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
+    display:  Frontiers in Forests and Global Change 3:75 (2020)
   highlight: 1
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
