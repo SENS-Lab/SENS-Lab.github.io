@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "SENS Lab - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SENS Lab at The Ohio State University."
 sitemap: false
 permalink: /allnews.html
 ---
