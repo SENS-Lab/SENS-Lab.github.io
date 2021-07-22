@@ -1,6 +1,6 @@
 - title: "Participant Engagement in Environmentally Focused Social Network Data Collection"
   image: TiNHigh.png
-  description: xxx
+  description:
   authors: L Jasny, L Roldan Gomez, M Hamilton, C Prell, A Guerrero, P Matous, E Schiffer, J Sayles, M Barnes, D Jacobs
   link:
     url: https://dx.doi.org/10.1016/j.socnet.2021.01.005
@@ -9,7 +9,7 @@
   
 - title: "Collaborative governance and the challenges of network-based research"
   image: YSR.png
-  description: xxx
+  description:
   authors: R Berardo, M Fischer, M Hamilton
   link:
     url: https://dx.doi.org/10.1177/0275074020927792
@@ -18,7 +18,7 @@
 
 - title: "Cognitive Maps Reveal Diverse Perceptions of How Prescribed Fire Affects Forests and Communities"
   image: TBG_SL.png
-  description: description 
+  description: 
   authors: M Hamilton, J Salerno
   link:
     url: https://dx.doi.org/10.3389/ffgc.2020.00075
@@ -86,64 +86,56 @@
   highlight: 1
   news2:
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+- title: "Understanding what shapes varying perceptions of the procedural fairness of transboundary environmental decision-making processes"
   image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  description: 
+  authors: M Hamilton
   link:
-    url: https://dx.doi.org/10.1088/1748-9326/ab59c1
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 1
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
+    url: https://dx.doi.org/10.5751/ES-10625-230448
+    display: Ecology and Society. 23(4) (2018)
+  highlight: 0
+  news2: 
 
-{\bf Hamilton, M.} 2018. ``Understanding what shapes varying perceptions of the procedural fairness of transboundary environmental decision-making processes.''  \textit{Ecology and Society}. 23(4). \doi{10.5751/ES-10625-230448}
-
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
+- title: "Behavioral adaptation to climate change in fire-prone forests"
   image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+  description: 
+  authors: M Hamilton, AP Fischer, S Guikema, G Keppel-Aleks
   link:
-    url: https://dx.doi.org/10.1088/1748-9326/ab59c1
-    display:  Phys. Rev. B 100, 104506 (2019)
+    url: https://dx.doi.org/10.1002/wcc.553
+    display: Wiley Interdisciplinary Reviews: Climate Change. 9(6):e553 (2018)
   highlight: 1
   news2:
 
-{\bf Hamilton, M.}, A.P. Fischer, S. Guikema, G. Keppel-Aleks. 2018. ``Behavioral adaptation to climate change in fire-prone forests.'' \textit{Wiley Interdisciplinary Reviews: Climate Change}. 9(6):e553 \doi{10.1002/wcc.553}
-
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
+- title: "Cross-level linkages in an ecology of climate change adaptation policy games"
   image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+  description: 
+  authors: M Hamilton, M Lubell, E Namaganda
   link:
-    url: https://dx.doi.org/10.1088/1748-9326/ab59c1
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 1
-  news2:
-{\bf Hamilton, M.}, M. Lubell, E. Namaganda 2018. ``Cross-level linkages in an ecology of climate change adaptation policy games.'' \textit{Ecology and Society}. 23(2). \doi{10.5751/ES-10179-230236}
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://dx.doi.org/10.1088/1748-9326/ab59c1
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 1
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-{\bf Hamilton, M.}, M. Lubell. 2018. ``Collaborative governance of climate change across spatial and institutional scales.'' \textit{Policy Studies Journal}. 46(2):222-247. \doi{10.1111/psj.12224}
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://dx.doi.org/10.1088/1748-9326/ab59c1
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
+    url: https://dx.doi.org/10.5751/ES-10179-230236
+    display:  Ecology and Society. 23(2) (2018)
   highlight: 0
   news2:
-Farzan, S., D.J.N. Young, A.G. Dedrick, {\bf M. Hamilton}, E.C. Porse, P.S. Coates, G. Sampson. 2015. ``Western juniper management: assessing policies for improving greater sage-grouse habitat and rangeland productivity.''  \textit{Environmental Management}. 1-9. \doi{10.1007/s00267-015-0521-1}
+
+- title: "Collaborative governance of climate change across spatial and institutional scales"
+  image: Pub_BCl.png
+  description: 
+  authors: M Hamilton, M Lubell
+  link:
+    url: https://dx.doi.org/10.1111/psj.12224
+    display:  Policy Studies Journal 46(2):222-247 (2018)
+  highlight: 1
+  news1: 
+  news2: 
+
+- title: "Western juniper management: assessing policies for improving greater sage-grouse habitat and rangeland productivity"
+  image: Fano.png
+  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
+  authors: S Farzan, DJN Young, AG Dedrick, M Hamilton, EC Porse, PS Coates, G Sampson
+  link:
+    url: https://dx.doi.org/10.1007/s00267-015-0521-1
+    display:  Environmental Management 1-9 (2015)
+  highlight: 0
+  news2:
 
 - title: "Conservation Program Participation and Adaptive Rangeland Decision-Making"
   image: dummy.png
@@ -151,6 +143,6 @@ Farzan, S., D.J.N. Young, A.G. Dedrick, {\bf M. Hamilton}, E.C. Porse, P.S. Coat
   authors: M Lubell, BB Cutts, LM Roche, M Hamilton, JD Derner, E Kachergis, KW Tate
   link:
     url: https://dx.doi.org/10.2111/rem-d-13-00025.1
-    display:  Rangeland Ecology and Management. 66(6):609-620 (2013)
+    display:  Rangeland Ecology and Management 66(6):609-620 (2013)
   highlight: 0
   news2: 
