@@ -24,6 +24,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
   {{ member.email }}
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
@@ -47,8 +48,6 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   {% endif %}
 
-  <ul style="overflow: hidden">
-    
   {% if member.number_educ == 5 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
@@ -57,7 +56,7 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
     
-  </ul>
+</ul>
 
 </div>
 
