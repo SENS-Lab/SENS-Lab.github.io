@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "SENS Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "SENS Lab at The Ohio State University"
 sitemap: false
 permalink: /research/
 ---
