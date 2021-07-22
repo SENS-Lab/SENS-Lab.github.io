@@ -1,7 +1,7 @@
 - name: Matt Hamilton
   photo: hamilton.jpg
-  info: Assistant professor, School of Environment and Natural Resources; Core Faculty, Sustainability Institute
-  email: hamilton.1323@osu.edu
+  info: Assistant Professor
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
