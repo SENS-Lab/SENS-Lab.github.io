@@ -73,7 +73,7 @@ permalink: /people/
 {% endif %}
 
 
-## Alumni
+## Undergraduate Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -106,7 +106,7 @@ permalink: /people/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
