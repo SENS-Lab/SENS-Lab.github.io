@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "SENS Lab - Opportunities"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /opportunities
 ---
 
 # Open positions
