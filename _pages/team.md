@@ -23,8 +23,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
-  {{ member.email }}
-  <ul style="overflow: hidden">
+  {{ member.email }}<br>
 
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
@@ -40,6 +39,8 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
+
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
