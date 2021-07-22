@@ -41,7 +41,7 @@ permalink: /people
 </div>
 {% endif %}
 
-## Graduate Students
+### Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -74,7 +74,7 @@ permalink: /people
 {% endif %}
 
 
-## Undergraduate Students
+### Undergraduate Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -107,25 +107,25 @@ permalink: /people
 </div>
 {% endif %}
 
-## Alumni
+### Alumni
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<!---<div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div>-->
 
-<div class="col-sm-4 clearfix">
+<!---<div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div>-->
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h4>Undergraduate Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
