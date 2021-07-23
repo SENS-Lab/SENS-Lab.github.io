@@ -59,8 +59,7 @@ Much of our work focuses on coupled human-natural systems, in which collective a
 We are grateful for funding from The Ohio State University, the Sustainability Institute, and the National Science Foundation.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/osucfaes_logo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/si_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf_logo.png" style="width: 110px">
 </figure>
