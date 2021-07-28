@@ -93,7 +93,7 @@ function resizeTwitterIframe(){
           for (i = 0; i < lis.length; i++) {
             lis[i].style.width = "200px";
             lis[i].style.float = "left";
-            lis[i].style.marginLeft = "10px";
+            lis[i].style.marginLeft = "0px";
             lis[i].style.marginRight = "10px";
             lis[i].style.borderTop = "1px solid white";
             lis[i].style.boxShadow = "0 4px 8px 0 rgba(0, 0, 0, 0.2)";
@@ -150,15 +150,6 @@ function resizeTwitterIframe(){
           for (i = 0; i < media.length; i++) {
             media[i].style.marginLeft = "0px";
             media[i].style.marginBottom = "0px";
-          }
-      }
-      const actions = e.contentDocument.getElementsByClassName('timeline-Tweet-actions');
-      if(actions.length){
-          for (i = 0; i < actions.length; i++) {
-            actions[i].style.marginLeft = "0px";
-            actions[i].style.position = "absolute";
-            actions[i].style.bottom = "0";
-            actions[i].style.marginBottom = "24px";
           }
       }
       const metadata = e.contentDocument.getElementsByClassName('timeline-Tweet-metadata');
