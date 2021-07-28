@@ -73,13 +73,11 @@ function resizeTwitterIframe(){
   const vw = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
   const nodes = document.querySelectorAll('iframe.twitter-timeline');
   nodes.forEach(function(e,i,a){
-    if(vw > 1023){
-<!--- 
+    if(vw > 1023){ 
      const sectionTitle = e.contentDocument.getElementsByClassName('timeline-Header-title');
---->
         if(sectionTitle.length){
           for (i = 0; i < sectionTitle.length; i++) {
-            sectionTitle[i].style.fontWeight = "400";
+            sectionTitle[i].style.fontWeight = "300";
             sectionTitle[i].style.color = "#333333";
           }
 
