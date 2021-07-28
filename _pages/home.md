@@ -65,31 +65,9 @@ We are grateful for funding from The Ohio State University, the Sustainability I
 </figure>
 
 
-
-</p>
 <p id="twitterContainer" style="display: none; margin-left: auto; margin-right: auto;">
 <a class="twitter-timeline" data-tweet-limit="3" data-width="1000" data-chrome="noscrollbar nofooter noborders" href="https://twitter.com/TechPeopleLab">Tweets by Tech&People Lab @ ULisboa</a>
 </p>
-
-<h1 class='timeline-Header-title publications' style="padding-left: 10px; padding-bottom: 20px;">Recent publications  <span style="font-size: 0.5em;"><a href="{{ site.url }}{{ site.baseurl }}/publications">see all</a></span></h1>
-
-<div class="publications">
-{% assign reversed_pubs = site.publications | reverse %}
-
-{% for publication in reversed_pubs limit: 3 %}
-  {% include publication-home.html pub=publication %}
-{% endfor %}
-
-</div>
-
-<h1 class='timeline-Header-title' style="padding-left: 10px; padding-bottom: 20px; padding-top: 20px;">Research highlights</h1>
-<div class="filters">
-<button type="button" class="btn btn-default filterBtn filter selected" id="all">All</button>
-<button type="button" class="btn btn-default filterBtn filter" id="access">Accessible Computing</button>
-<button type="button" class="btn btn-default filterBtn filter" id="health">Pervasive Healthcare</button>
-<button type="button" class="btn btn-default filterBtn filter" id="usec">Usable Privacy</button>
-<button type="button" class="btn btn-default filterBtn filter" id="inclusive_education">Inclusive Education</button>
-</div>
 
 <div class="projects">
 {% for project in site.projects %}
