@@ -58,10 +58,6 @@ Much of our work focuses on coupled human-natural systems, in which collective a
 
 We are grateful for funding from The Ohio State University, the Sustainability Institute, and the National Science Foundation.
 
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
-</div>
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/osucfaes_logo.png" style="width: 340px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/silogo.png" style="width: 50px">
