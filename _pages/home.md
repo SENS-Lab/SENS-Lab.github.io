@@ -91,7 +91,7 @@ function resizeTwitterIframe(){
       const lis = e.contentDocument.getElementsByClassName('timeline-TweetList-tweet');
       if(lis.length){
           for (i = 0; i < lis.length; i++) {
-            lis[i].style.width = "300px";
+            lis[i].style.width = "200px";
             lis[i].style.float = "left";
             lis[i].style.marginLeft = "15px";
             lis[i].style.marginRight = "18px";
