@@ -66,7 +66,7 @@ We are grateful for funding from The Ohio State University, the Sustainability I
 
 
 <p id="twitterContainer" style="display: none; margin-left: auto; margin-right: auto;">
-<a class="twitter-timeline" data-tweet-limit="3" data-width="1000" data-chrome="noscrollbar nofooter noborders" href="https://twitter.com/TechPeopleLab">Tweets by Tech&People Lab @ ULisboa</a>
+<a class="twitter-timeline" data-tweet-limit="3" data-width="1000" data-chrome="noscrollbar nofooter noborders" href="https://twitter.com/SENS_OSU">Tweets by Tech&People Lab @ ULisboa</a>
 </p>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
