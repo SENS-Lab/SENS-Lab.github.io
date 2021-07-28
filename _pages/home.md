@@ -103,7 +103,7 @@ function resizeTwitterIframe(){
       const text = e.contentDocument.getElementsByClassName('timeline-Tweet-text');
       if(text.length){
           for (i = 0; i < text.length; i++) {
-            text[i].style.fontSize = "12pt";
+            text[i].style.fontSize = "10pt";
             text[i].style.lineHeight = "18px";
             text[i].style.marginTop = "12px";
             text[i].style.marginBottom = "0px";
