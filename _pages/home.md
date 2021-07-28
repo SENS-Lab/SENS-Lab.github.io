@@ -93,8 +93,8 @@ function resizeTwitterIframe(){
           for (i = 0; i < lis.length; i++) {
             lis[i].style.width = "200px";
             lis[i].style.float = "left";
-            lis[i].style.marginLeft = "15px";
-            lis[i].style.marginRight = "18px";
+            lis[i].style.marginLeft = "10px";
+            lis[i].style.marginRight = "10px";
             lis[i].style.borderTop = "1px solid white";
             lis[i].style.boxShadow = "0 4px 8px 0 rgba(0, 0, 0, 0.2)";
             lis[i].style.marginBottom = "15px";
