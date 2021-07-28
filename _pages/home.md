@@ -54,16 +54,9 @@ The Socio-Environmental Networks and Sustainability (SENS) Lab is a research gro
 
 Much of our work focuses on coupled human-natural systems, in which collective action among diverse stakeholder groups is often necessary to address environmental risk. Likewise, stakeholders must grapple with social and ecological dynamics that span multiple spatial/administrative scales. Our research is broadly organized around three core themes: 1) how diverse stakeholder groups conceptualize risk, individually and collectively, 2) how policy actors navigate complex risk mitigation governance systems, and 3) how governance systems self-organize to manage environmental risk (see [Research](research)).
 
- **We are always looking for passionate new PhD students, Postdocs, and Master students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**
-
-We are grateful for funding from The Ohio State University, the Sustainability Institute, and the National Science Foundation.
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/osucfaes_logo.png" style="width: 340px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/silogo.png" style="width: 50px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf_logo.png" style="width: 110px">
-</figure>
-
+<!-- 
+**We are always looking for passionate new PhD students, Postdocs, and Master students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**
+-->
 
 <p id="twitterContainer" style="display: none; margin-left: auto; margin-right: auto;">
 <a class="twitter-timeline" data-tweet-limit="3" data-width="1000" data-chrome="noscrollbar nofooter noborders" href="https://twitter.com/SENS_OSU">Tweets by Tech&People Lab @ ULisboa</a>
@@ -237,5 +230,12 @@ window.addEventListener("optimizedResize", function() {
 window.onload = function(e){
   twitterStuff();
 }
-
 </script>
+
+We are grateful for funding from The Ohio State University, the Sustainability Institute, and the National Science Foundation.
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/osucfaes_logo.png" style="width: 340px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/silogo.png" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf_logo.png" style="width: 110px">
+</figure>
