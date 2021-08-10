@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## Researchlj
+## Research
 
 
 {% assign number_printed = 0 %}
@@ -28,7 +28,7 @@ permalink: /research/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
+{% if even_odd > 1 %}
 </div>
 {% endif %}
 
