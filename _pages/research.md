@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## Researchk
+## Research
 
 {% assign number_printed = 0 %}
 {% for member in site.data.projects %}
