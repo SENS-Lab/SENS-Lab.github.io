@@ -34,12 +34,11 @@ permalink: /research/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
-{% assign even_odd = number_printed | modulo: 3 %}
-{% if even_odd == 1 %}
+{% if even_odd == 2 %}
 </div>
 {% endif %}
