@@ -6,9 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## People
-
- ***We are looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**
+## Research
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -41,80 +39,15 @@ permalink: /research/
 </div>
 {% endif %}
 
-### Graduate Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i> | <i>{{ member.email }}</i> | <i>{{ member.education1 }}</i><br>
-  {{ member.education2 }}
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-### Undergraduate Students
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  {{ member.education1 }}
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 ### Alumni
 <div class="row">
 
-<!---<div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.projects %}
 {{ member.name }}
 {% endfor %}
-</div>-->
+</div>
 
 <!---<div class="col-sm-4 clearfix">
 <h4>Master students</h4>
