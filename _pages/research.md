@@ -1,6 +1,6 @@
 ---
 title: "SENS Lab - Research"
-layout: textlay
+layout: gridlay
 excerpt: "SENS Lab at The Ohio State University"
 sitemap: false
 permalink: /research/
