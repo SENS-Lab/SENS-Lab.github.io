@@ -39,34 +39,6 @@ permalink: /research/
 </div>
 {% endif %}
 
-### Alumni
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.projects %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<!---<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>-->
-
-<div class="col-sm-4 clearfix">
-<h4>Undergraduate Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-## Research
-
 **CoNIFER project**: Recent years have demonstrated the substantial threat that wildfires pose to communities across the U.S. The Community Networks in Fire-Environment Resilience (CoNIFER) project evaluates how local-level wildfire protection planning processes shape social interaction and consequently the implementation of risk mitigation measures at both local and regional scales. Collaborators include Eric Toman (Ohio State), Jon Salerno and Tony Cheng (Colorado State), Paige Fischer (University of Michigan), and Max Nielsen-Pincus (Portland State). The CoNIFER project is supported by the National Science Foundation Decision, Risk and Management Sciences Program.
 
 <figure>
