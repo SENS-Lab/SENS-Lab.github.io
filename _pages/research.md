@@ -23,7 +23,7 @@ permalink: /research/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/conifer.jpg" width="95%">
 </figure>
 
-[![Proguard]({{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/conifer.jpg)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
+[![Proguard](.{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/conifer.jpg)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
 
 **11 states CWPP project**: We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
 
