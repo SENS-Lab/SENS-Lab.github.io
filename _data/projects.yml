@@ -1,7 +1,9 @@
 - name: CoNIFER project
   photo: conifer.jpg
-  info: Assistant Professor
-  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
   number_educ: 1
-  education1: <a href="https://www.dropbox.com/s/aovm8pqlzpefymo/Matthew%20Hamilton%20CV.pdf?dl=0">CV</a>
-  education2: Recent years have demonstrated the substantial threat that wildfires pose to communities across the U.S. The Community Networks in Fire-Environment Resilience (CoNIFER) project evaluates how local-level wildfire protection planning processes shape social interaction and consequently the implementation of risk mitigation measures at both local and regional scales. Collaborators include Eric Toman (Ohio State), Jon Salerno and Tony Cheng (Colorado State), Paige Fischer (University of Michigan), and Max Nielsen-Pincus (Portland State). The CoNIFER project is supported by the National Science Foundation Decision, Risk and Management Sciences Program.
+  education2: Recent years have demonstrated the substantial threat that wildfires pose to communities across the U.S. The Community Networks in Fire-Environment Resilience (CoNIFER) project evaluates how local-level wildfire protection planning processes shape social interaction and consequently the implementation of risk mitigation measures at both local and regional scales. Collaborators include Jon Salerno (Colorado State), Eric Toman (Ohio State), Tony Cheng (Colorado State), Paige Fischer (University of Michigan), and Max Nielsen-Pincus (Portland State). The CoNIFER project is supported by the National Science Foundation Decision, Risk and Management Sciences Program.
+
+- name: CWPP Portal and Data Library
+  photo: cwpplib.JPG
+  number_educ: 1
+  education2: Community Wildfire Protection Plans (CWPPs) are collaborative frameworks that outline local priorities for wildfire risk mitigation. Since CWPPs were introduced in the Healthy Forests Restoration Act two decades ago, thousands of plans have been developed across fire-prone regions of the US. Guidance for plan development is relatively vague, which has spurred considerable variation in the scope, scale, and goals of these planning processes. The CWPP Portal and Data Library offers 20,000+ records of individuals’ participation in 1,000+ CWPPs in 11 states of the fire-prone US West, attributes of individuals and plans, and the plan documents themselves. All data are available for download.
