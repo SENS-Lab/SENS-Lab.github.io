@@ -18,7 +18,7 @@ permalink: /research/
 {% endif %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ member.photo }}" class="img-square" width="100%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ member.photo }}" class="proj" width="100%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.education2 }}
   <ul style="overflow: hidden">
