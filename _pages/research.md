@@ -6,7 +6,9 @@ sitemap: false
 permalink: /research/
 ---
 
-## Researchg
+## Researchz
+
+<div class="row">
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
@@ -14,4 +16,6 @@ permalink: /research/
   {{ member.education2 }}
   <ul style="overflow: hidden">
   </ul>
+</div>
+
 </div>
