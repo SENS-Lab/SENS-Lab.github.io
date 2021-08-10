@@ -42,3 +42,7 @@ permalink: /research/
 {% if even_odd == 2 %}
 </div>
 {% endif %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
