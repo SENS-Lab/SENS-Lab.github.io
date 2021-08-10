@@ -6,9 +6,17 @@ sitemap: false
 permalink: /research/
 ---
 
-## Researchz
+## Researchaz
 
+
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 3 %}
+
+{% if even_odd == 0 %}
 <div class="row">
+{% endif %}
 
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
@@ -18,4 +26,20 @@ permalink: /research/
   </ul>
 </div>
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% assign even_odd = number_printed | modulo: 3 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
