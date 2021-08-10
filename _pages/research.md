@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-## Researchaz
+## Researchl
 
 
 {% assign number_printed = 0 %}
