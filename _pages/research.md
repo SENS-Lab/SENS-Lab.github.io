@@ -51,7 +51,7 @@ permalink: /research/
 ## Completed projects
 
 {% assign number_printed = 0 %}
-{% for member in site.data.complteed_projects %}
+{% for member in site.data.completed_projects %}
 
 {% assign even_odd = number_printed | modulo: 3 %}
 
