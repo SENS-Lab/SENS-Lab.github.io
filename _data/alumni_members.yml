@@ -1,4 +1,19 @@
-- name: ...
+- name: Asha Edmondson 
+  photo: rock.jpg
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  education1: Research interests, projects, goals, etc.
+
+- name: Jordan Inskeep
+  photo: rock.jpg
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  education1: Research interests, projects, goals, etc.
+  
+- name: Emily Palsa
+  photo: rock.jpg
+  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  education1: Research interests, projects, goals, etc.
+
+- name: Hallie Stelzle
   photo: rock.jpg
   email: <a href="mailto:hamilton.1323@osu.edu">email</a>
   education1: Research interests, projects, goals, etc.
