@@ -1,17 +1,19 @@
 - name: Asha Edmondson
   photo: edmondson.jpg
-  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  email: <a href="mailto:edmondson.71@buckeyemail.osu.edu">email</a>
   education1: Asha Edmondson is a third year undergraduate student at The Ohio State University. She is majoring in Public Affairs and Strategic Communications with minors in Dance and Geography. She is interested in communicating public policies and issues to the public and hopes to become a press secretary in the future. In her free time, Asha likes to sail on the OSU sailing team and volunteer as a trainer for 4Paws service dogs. <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/19244402ca393211fb36fc016449c9fd9a93f337/downloads/Asha%20Edmondson%20Resume.pdf">CV</a> 
 
-- name: Jordan Inskeep
-  photo: Inskeep.jpg
-  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
-  education1: Jordan is a fourth year Environment, Economics, Development and Sustainability major with a specialization in Community Development. His academic interests are focused on network analysis, social-ecological systems, and the effects of climate change on local governance. He is a firm believer in the importance of grassroots organization. In the future, he hopes to help communities develop a deeper understanding of the complex systems they inhabit and the policy discourse that surrounds them. He also enjoys adventuring to new places with his wife, Maggie, to explore diverse communities and ecosystems. 
-  
 - name: Hallie Stelzle
   photo: stelzlephoto.jpg
-  email: <a href="mailto:hamilton.1323@osu.edu">email</a>
+  email: <a href="mailto:stelzle.2@buckeyemail.osu.edu">email</a>
   education1: Hallie is a fourth year studying Environmental Policy and Decision Making with a specialization in Environmental and Social Justice. She is currently involved in research projects investigating community wildfire planning in Colorado, and another researching the socio-economic impacts of Brownfield redevelopments across the United States. She is interested in studying social networks on a community level to better understand resource distribution patterns - especially in the realm of food and housing systems. In her free time, she enjoys biking, gardening, and playing tennis.
+
+- name: Elliot Wilson-Woodrow
+  photo: rock.jpg
+  email: <a href="mailto:wilson-woodrow.3@buckeyemail.osu.edu">email</a>
+  education1: Elliot is majoring in EEDS and minoring in Statistics at Ohio State University and is set to graduate in the spring of 2024. He is hopeful to find a career that allows him to increase the standard of living of not only humans but all species on earth. He is interested in the idea of a sustainable economy and the different avenues we can take to get closer to one. Outside of academia, Elliot loves to play video games, exercise, and explore nature in the company of his friends.
+
+
 
 #   
 #   - name: Irene Battisti
