@@ -42,7 +42,7 @@ The Socio-Environmental Networks and Sustainability (SENS) Lab is a research gro
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/WQCogMap.png" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/firenet.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PXL_20220617_162811641.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
