@@ -13,14 +13,6 @@
   number_educ: 1
   education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/images/FRIED_CV_20211117.pdf">CV</a>
   education2: Harrison is a PhD student in Environmental Social Sciences. His research focuses on how people work together to solve complex environmental problems. Specifically, he adopts a social-ecological network approach to understand climate change adaptation governance, which is an issue that is complex both socially and ecologically. His existing research is informed by several theories of environmental governance, including institutional (or social-ecological) fitness and the Ecology of Games Theory. In his free time, Harrison enjoys to spend time with his friends and family, attend Ohio State football games, and explore Columbus.
-  
-- name: Lisa Shahin
-  photo: rock.jpg
-  info: MSc Student
-  email: <a href="mailto:shahin.17@buckeyemail.osu.edu">email</a>
-  number_educ: 1
-  education1: <a href="https://www.dropbox.com/scl/fi/myflifg5izfq010oa5kky/Lisa-Shahin-CV.docx?dl=0&rlkey=sjhshviec0fy31p59an0h97yi">CV</a>
-  education2: Lisa is a Master's student and Fulbright Fellow who is applying network tools and perspectives to measure social-ecological systems thinking in individuals' perceptions of climate change.
 
 - name: Jordan Inskeep
   photo: Inskeep.jpg
@@ -37,6 +29,15 @@
   number_educ: 1
   education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/Singh_CV_2022.pdf">CV</a>
   education2: Prabhjot (Prabu) Singh is a PhD student in the Environmental Science Graduate Program at OSU. Prior to joining the SENS lab, Prabu completed her BA in Art and Biology at Gustavus Adolphus College in 2019. She then worked with the Sprunger Lab and completed her MS in Environmental Science at OSU in the Summer of 2021.  Her research has explored both quantitative and qualitative data to understand the existing state of soil health on farms in the Midwest and how farmers may perceive or use biological soil health data to inform their management practices. As she continues with the SENS Lab for her PhD, Prabu is interested in using interdisciplinary methods to understand decision-making in agriculture, communicate scientific research with broader audiences, and further study soil health in the Midwest. In her free time, Prabu enjoys gardening, running, crocheting, painting, cooking, and spending time with friends and family!
+
+  
+#- name: Lisa Shahin
+#  photo: rock.jpg
+#  info: MSc Student
+#  email: <a href="mailto:shahin.17@buckeyemail.osu.edu">email</a>
+#  number_educ: 1
+#  education1: <a href="https://www.dropbox.com/scl/fi/myflifg5izfq010oa5kky/Lisa-Shahin-CV.docx?dl=0&rlkey=sjhshviec0fy31p59an0h97yi">CV</a>
+#  education2: Lisa is a Master's student and Fulbright Fellow who is applying network tools and perspectives to measure social-ecological systems thinking in individuals' perceptions of climate change.
 
 #- name: "This could be you !"
 #  photo: rock.jpg
