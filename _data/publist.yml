@@ -1,3 +1,12 @@
+- title: "Theorizing Multilevel Closure Structures Guiding Forum Participation"
+  image: jpart.JPG
+  description:
+  authors: H Fried, M Hamilton, R Berardo
+  link:
+    url: https://doi.org/10.1093/jopart/muac042
+    display: Journal of Public Administration Research and Theory muac042 (2022)
+  highlight: 1
+  
 - title: "Reimagine fire science for the anthropocene"
   image:
   description:
@@ -166,7 +175,7 @@
   link:
     url: https://dx.doi.org/10.1002/wcc.553
     display: Wiley Interdisciplinary Reviews Climate Change 9(6):e553 (2018)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Cross-level linkages in an ecology of climate change adaptation policy games"
