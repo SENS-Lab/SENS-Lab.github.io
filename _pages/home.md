@@ -59,7 +59,7 @@ Much of our work focuses on coupled human-natural systems, in which collective a
 
 <!-- 
 **We are always looking for passionate new PhD students, Postdocs, and Master students to join us** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**
--->
+
 
 <p id="twitterContainer" style="display: none; margin-left: auto; margin-right: auto;">
 <a class="twitter-timeline" data-tweet-limit="3" data-width="1000" data-chrome="noscrollbar nofooter noborders" href="https://twitter.com/SENS_OSU">Tweets by Tech&People Lab @ ULisboa</a>
@@ -235,6 +235,8 @@ window.onload = function(e){
   twitterStuff();
 }
 </script>
+
+-->
 
 We are grateful for funding from The Ohio State University, the Sustainability Institute, and the National Science Foundation.
 
