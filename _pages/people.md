@@ -116,7 +116,7 @@ permalink: /people/
 {% endfor %}
 </div>-->
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
 <h4>Graduate students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
