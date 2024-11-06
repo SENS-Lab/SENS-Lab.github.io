@@ -6,13 +6,13 @@
   education1: <a href="https://www.dropbox.com/scl/fi/qx2htrxuzgxulc9sv405y/k_ordonez_CV.docx?dl=0&rlkey=r3c59dxba8z672cvtuox1574v">CV</a>
   education2: Kimberly is a PhD student in Environmental Social Science and holds an interest in co-productive science, multi-scale behavioral adaptations to environmental pressures, and environmental justice. Her current projects include Climate Change related adaptations by environmental stakeholders in Ohio including Nongovernmental Organizations, private businesses, nonprofits, and federal offices. Her research goals involve expanding her studies into environmental justice and localized community acceptance of climate change adaptations. Kimberly hopes to one day work in a position of translational science, engaging communities and scientists alike, to assist in fair and realistic behavioral changes for a positive socio-ecological outcome. In the meantime, she enjoys exploring the Columbus food scene and walking her two dogs. 
   
-- name: Harrison Fried
-  photo: harrison_pic.jpg
-  info: PhD Student
-  email: <a href="mailto:fried.64@osu.edu">email</a>
-  number_educ: 1
-  education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/images/FRIED_CV_20211117.pdf">CV</a>
-  education2: Harrison is a PhD student in Environmental Social Sciences. His research focuses on how people work together to solve complex environmental problems. Specifically, he adopts a social-ecological network approach to understand climate change adaptation governance, which is an issue that is complex both socially and ecologically. His existing research is informed by several theories of environmental governance, including institutional (or social-ecological) fitness and the Ecology of Games Theory. In his free time, Harrison enjoys to spend time with his friends and family, attend Ohio State football games, and explore Columbus.
+#- name: Harrison Fried
+#  photo: harrison_pic.jpg
+#  info: PhD Student
+#  email: <a href="mailto:fried.64@osu.edu">email</a>
+#  number_educ: 1
+#  education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/images/FRIED_CV_20211117.pdf">CV</a>
+#  education2: Harrison is a PhD student in Environmental Social Sciences. His research focuses on how people work together to solve complex environmental problems. Specifically, he adopts a social-ecological network approach to understand climate change adaptation governance, which is an issue that is complex both socially and ecologically. His existing research is informed by several theories of environmental governance, including institutional (or social-ecological) fitness and the Ecology of Games Theory. In his free time, Harrison enjoys to spend time with his friends and family, attend Ohio State football games, and explore Columbus.
 
 - name: Prabhjot Singh
   photo: Prabu.JPG
@@ -38,13 +38,13 @@
   education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/Inskeep%20Resume_7_2022.pdf">CV</a>
   education2: Jordan is a Master's student. His academic interests are focused on network analysis, social-ecological systems, and the effects of climate change on local governance. He is a firm believer in the importance of grassroots organization. In the future, he hopes to help communities develop a deeper understanding of the complex systems they inhabit and the policy discourse that surrounds them. He also enjoys adventuring to new places with his wife, Maggie, to explore diverse communities and ecosystems.
 
-- name: Monika Moreu-Vicente
-  photo: Monika.jpg
-  info: MSc Student
-  email: <a href="mailto:moreu-vicente.1@buckeyemail.osu.edu">email</a>
-  number_educ: 1
-  education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/images/Moreu-Vicente%20CV%202023.pdf">CV</a>
-  education2: Monika is a Master’s student working on the perceptions of wildfire risk in the heathland ecosystems of northern Europe, primarily the United Kingdom and Norway. Originally from Puerto Rico, she earned her B.Sc. in Geology at the University of Puerto Rico – Mayagüez where she conducted multiple research projects in the Caribbean. She is interested in bridging the natural and social sciences to better understand how to make conservation/restoration-related judgments and decisions, protect Puerto Rico’s natural resources, and in strengthening stakeholder engagement and action. In her spare time, she enjoys cycling, having a good cup of coffee, watching documentaries, and cuddling with her cat Chiki.
+#- name: Monika Moreu-Vicente
+#  photo: Monika.jpg
+#  info: MSc Student
+#  email: <a href="mailto:moreu-vicente.1@buckeyemail.osu.edu">email</a>
+#  number_educ: 1
+#  education1: <a href="https://github.com/SENS-Lab/SENS-Lab.github.io/raw/gh-pages/images/Moreu-Vicente%20CV%202023.pdf">CV</a>
+#  education2: Monika is a Master’s student working on the perceptions of wildfire risk in the heathland ecosystems of northern Europe, primarily the United Kingdom and Norway. Originally from Puerto Rico, she earned her B.Sc. in Geology at the University of Puerto Rico – Mayagüez where she conducted multiple research projects in the Caribbean. She is interested in bridging the natural and social sciences to better understand how to make conservation/restoration-related judgments and decisions, protect Puerto Rico’s natural resources, and in strengthening stakeholder engagement and action. In her spare time, she enjoys cycling, having a good cup of coffee, watching documentaries, and cuddling with her cat Chiki.
 
 #- name: "This could be you !"
 #  photo: rock.jpg
